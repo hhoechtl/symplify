@@ -56,7 +56,7 @@ parameters:
         - ecs.php
         - rector.php
 
-    excludes_analyse:
+    excludePaths:
         - */scoper.php
         - *scoper.inc.php
 
